@@ -8,4 +8,4 @@ Watch closely as a mole briefly appears in one of several boxes. Once it disappe
 -  Click the correct box after it vanishes
 -  Increasing difficulty with faster mole appearances
   - Score tracking to challenge your memory skills
-    ![mainpageimage]()
+    ![mainpageimage](whackamole.png)
